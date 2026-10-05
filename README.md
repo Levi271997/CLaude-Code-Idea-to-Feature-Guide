@@ -192,7 +192,7 @@ Create ClickUp tasks for each step of the approved plan in list <list name>.
 **BUILD ONE STEP AT A TIME**
 
 ```
-Implement step 1 of the plan only. Stay on branch levi. Stop when it's
+Implement step 1 of the plan only. Stay on branch [own branch]. Stop when it's
 done and tell me how to verify it.
 ```
 
@@ -218,9 +218,9 @@ Goal: catch bugs and security issues before they reach production.
 **PROMPT**
 
 ```
-Commit this work on levi and open a PR to main with a clear description.
+Commit this work on [your branch] and open a PR to main with a clear description.
 ```
 
-> **Remember:** `main` deploys to production. Work on `levi` and merge only after review.
+> **Remember:** `main` deploys to production. Work on `[your own branch]` and merge only after review.
 
 ---
