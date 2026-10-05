@@ -224,5 +224,3 @@ Commit this work on levi and open a PR to main with a clear description.
 > **Remember:** `main` deploys to production. Work on `levi` and merge only after review.
 
 ---
-
-*Claude Code workflow guide · webcalculator-v2 · October 2026*
